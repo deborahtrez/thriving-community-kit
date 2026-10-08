@@ -1,0 +1,35 @@
+# Copy to .github/workflows/welcome.yml in your repository.
+# Also copy welcome_bot.py to .github/scripts/welcome_bot.py
+#
+# Why pull_request_target? Pull requests from forks get a read-only token under
+# the plain `pull_request` event, so the bot couldn't comment. pull_request_target
+# runs the workflow from YOUR default branch (never the contributor's code), which
+# is safe here because we do not check out or run anything from the PR itself.
+
+name: Welcome first-time contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened, closed]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4          # checks out YOUR default branch only
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python .github/scripts/welcome_bot.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMUNITY_NAME: "PyLadies Kampala"
+          CHAT_LINK: "https://example.org/join-our-chat"
+          CONTRIBUTING_PATH: "CONTRIBUTING.md"

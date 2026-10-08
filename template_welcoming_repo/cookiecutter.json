@@ -1,0 +1,12 @@
+{
+  "community_name": "PyLadies Kampala",
+  "repo_slug": "{{ cookiecutter.community_name.lower().replace(' ', '-') }}-project",
+  "project_description": "A beginner-friendly Python project built by our community",
+  "maintainer_names": "Your Name, Co-maintainer Name",
+  "conduct_contact_email": "conduct@example.org",
+  "chat_link": "https://example.org/join-our-chat",
+  "meeting_rhythm": "first Saturday of every month",
+  "_copy_without_render": [
+    ".github/scripts/*"
+  ]
+}

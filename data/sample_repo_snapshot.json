@@ -1,0 +1,1651 @@
+{
+ "repo": "example-community/python-starter-kit (sample data)",
+ "source": "bundled offline sample - synthetic",
+ "pulls": [
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-22T10:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-10-10T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-25T10:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-26T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-11T05:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-10-27T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-10-05T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-05T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-01T11:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-10-29T23:00:00+00:00"
+  },
+  {
+   "author": "amina-00",
+   "is_bot": false,
+   "created_at": "2025-10-14T09:00:00+00:00"
+  },
+  {
+   "author": "amina-00",
+   "is_bot": false,
+   "created_at": "2025-11-04T09:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-10-15T20:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-10-16T05:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-10-17T01:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-11-14T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-11-23T18:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-12T06:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-06T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-01T01:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-15T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-18T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-11-17T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-04T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-21T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-16T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-17T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-11-21T21:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-11-24T13:00:00+00:00"
+  },
+  {
+   "author": "grace-01",
+   "is_bot": false,
+   "created_at": "2025-11-09T13:00:00+00:00"
+  },
+  {
+   "author": "esther-02",
+   "is_bot": false,
+   "created_at": "2025-11-02T02:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-11-22T07:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-11-28T14:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-11-04T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-20T01:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-12-20T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-12-05T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-28T18:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-23T06:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-23T21:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-28T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-23T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-17T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-08T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-11T11:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-12-01T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2025-12-27T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2025-12-22T07:00:00+00:00"
+  },
+  {
+   "author": "joy-03",
+   "is_bot": false,
+   "created_at": "2025-12-20T21:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-12-08T12:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-12-11T02:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2025-12-20T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-01-17T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-11T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-01-18T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-17T16:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-01-18T07:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-17T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-01-01T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-01-20T06:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-01-03T02:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-16T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-18T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-02T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-01-18T06:00:00+00:00"
+  },
+  {
+   "author": "ruth-04",
+   "is_bot": false,
+   "created_at": "2026-01-23T18:00:00+00:00"
+  },
+  {
+   "author": "faith-05",
+   "is_bot": false,
+   "created_at": "2026-01-02T13:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-01-07T11:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-01-09T13:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-01-04T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-21T07:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-26T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-04T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-11T08:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-03T18:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-18T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-23T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-01T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-26T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-03T18:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-19T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-02-14T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-20T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-02-14T01:00:00+00:00"
+  },
+  {
+   "author": "sarah-06",
+   "is_bot": false,
+   "created_at": "2026-01-29T14:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-02-14T14:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-02-01T03:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-01-31T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-01T02:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-03-21T18:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-13T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-19T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-05T04:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-19T21:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-03-06T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-03-18T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-19T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-03-28T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-03-23T08:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-03-01T10:00:00+00:00"
+  },
+  {
+   "author": "mercy-07",
+   "is_bot": false,
+   "created_at": "2026-03-08T08:00:00+00:00"
+  },
+  {
+   "author": "brenda-08",
+   "is_bot": false,
+   "created_at": "2026-03-07T09:00:00+00:00"
+  },
+  {
+   "author": "brenda-08",
+   "is_bot": false,
+   "created_at": "2026-04-15T09:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-03-02T01:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-03-19T06:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-03-27T08:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-04-27T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-04T12:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-21T01:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-05T20:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-15T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-04-17T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-04-02T08:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-04-12T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-13T16:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-10T05:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-04-20T05:00:00+00:00"
+  },
+  {
+   "author": "irene-09",
+   "is_bot": false,
+   "created_at": "2026-04-16T17:00:00+00:00"
+  },
+  {
+   "author": "doreen-10",
+   "is_bot": false,
+   "created_at": "2026-04-06T13:00:00+00:00"
+  },
+  {
+   "author": "patience-11",
+   "is_bot": false,
+   "created_at": "2026-04-19T13:00:00+00:00"
+  },
+  {
+   "author": "lydia-12",
+   "is_bot": false,
+   "created_at": "2026-04-21T11:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-04-10T16:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-04-03T00:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-04-08T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-05-02T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-26T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-16T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-04-30T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-05T16:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-22T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-05-03T16:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-22T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-05-23T07:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-23T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-27T14:00:00+00:00"
+  },
+  {
+   "author": "hope-13",
+   "is_bot": false,
+   "created_at": "2026-05-22T17:00:00+00:00"
+  },
+  {
+   "author": "hope-13",
+   "is_bot": false,
+   "created_at": "2026-06-12T17:00:00+00:00"
+  },
+  {
+   "author": "naomi-14",
+   "is_bot": false,
+   "created_at": "2026-05-03T02:00:00+00:00"
+  },
+  {
+   "author": "agnes-15",
+   "is_bot": false,
+   "created_at": "2026-05-06T07:00:00+00:00"
+  },
+  {
+   "author": "agnes-15",
+   "is_bot": false,
+   "created_at": "2026-05-14T07:00:00+00:00"
+  },
+  {
+   "author": "christine-16",
+   "is_bot": false,
+   "created_at": "2026-05-14T04:00:00+00:00"
+  },
+  {
+   "author": "diana-17",
+   "is_bot": false,
+   "created_at": "2026-05-06T21:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-05-03T12:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-05-20T14:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-05-12T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-06-10T10:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-04T21:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-08T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-05-29T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-08T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-05-29T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-06-02T02:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-05-29T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-03T05:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-06-21T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-11T10:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-23T21:00:00+00:00"
+  },
+  {
+   "author": "edith-18",
+   "is_bot": false,
+   "created_at": "2026-06-24T16:00:00+00:00"
+  },
+  {
+   "author": "florence-19",
+   "is_bot": false,
+   "created_at": "2026-06-24T05:00:00+00:00"
+  },
+  {
+   "author": "florence-19",
+   "is_bot": false,
+   "created_at": "2026-07-24T05:00:00+00:00"
+  },
+  {
+   "author": "gloria-20",
+   "is_bot": false,
+   "created_at": "2026-06-11T11:00:00+00:00"
+  },
+  {
+   "author": "harriet-21",
+   "is_bot": false,
+   "created_at": "2026-06-23T08:00:00+00:00"
+  },
+  {
+   "author": "ivy-22",
+   "is_bot": false,
+   "created_at": "2026-06-26T20:00:00+00:00"
+  },
+  {
+   "author": "juliet-23",
+   "is_bot": false,
+   "created_at": "2026-06-13T23:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-06-27T01:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-06-08T17:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-06-14T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-30T11:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-06-29T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-07-12T02:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-07-03T05:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-07-15T18:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-07-22T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-07-21T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-07-06T10:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-07-02T19:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-07-24T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-07-03T01:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-07-03T08:00:00+00:00"
+  },
+  {
+   "author": "karen-24",
+   "is_bot": false,
+   "created_at": "2026-07-20T07:00:00+00:00"
+  },
+  {
+   "author": "linda-25",
+   "is_bot": false,
+   "created_at": "2026-07-25T15:00:00+00:00"
+  },
+  {
+   "author": "maria-26",
+   "is_bot": false,
+   "created_at": "2026-07-10T21:00:00+00:00"
+  },
+  {
+   "author": "maria-26",
+   "is_bot": false,
+   "created_at": "2026-07-23T21:00:00+00:00"
+  },
+  {
+   "author": "nora-27",
+   "is_bot": false,
+   "created_at": "2026-07-13T04:00:00+00:00"
+  },
+  {
+   "author": "olive-28",
+   "is_bot": false,
+   "created_at": "2026-07-14T02:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-07-15T23:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-07-26T06:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-07-07T08:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-20T03:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-25T05:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-08-07T21:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-06T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-07-28T16:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-08-20T02:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-08-14T19:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-08-10T10:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-23T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-04T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-24T17:00:00+00:00"
+  },
+  {
+   "author": "priscilla-29",
+   "is_bot": false,
+   "created_at": "2026-08-18T22:00:00+00:00"
+  },
+  {
+   "author": "rachel-30",
+   "is_bot": false,
+   "created_at": "2026-08-11T12:00:00+00:00"
+  },
+  {
+   "author": "sylvia-31",
+   "is_bot": false,
+   "created_at": "2026-08-10T13:00:00+00:00"
+  },
+  {
+   "author": "sylvia-31",
+   "is_bot": false,
+   "created_at": "2026-08-15T13:00:00+00:00"
+  },
+  {
+   "author": "tracy-32",
+   "is_bot": false,
+   "created_at": "2026-08-23T18:00:00+00:00"
+  },
+  {
+   "author": "vivian-33",
+   "is_bot": false,
+   "created_at": "2026-08-17T01:00:00+00:00"
+  },
+  {
+   "author": "vivian-33",
+   "is_bot": false,
+   "created_at": "2026-09-05T01:00:00+00:00"
+  },
+  {
+   "author": "winnie-34",
+   "is_bot": false,
+   "created_at": "2026-08-25T23:00:00+00:00"
+  },
+  {
+   "author": "yvonne-35",
+   "is_bot": false,
+   "created_at": "2026-08-03T10:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-08-14T00:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-08-12T08:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-08-06T22:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-10T15:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-09-11T23:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-15T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-19T09:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-24T17:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-09-22T19:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-02T13:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-08-27T05:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-18T07:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-08-28T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-anne",
+   "is_bot": false,
+   "created_at": "2026-08-30T14:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-11T21:00:00+00:00"
+  },
+  {
+   "author": "maintainer-ben",
+   "is_bot": false,
+   "created_at": "2026-09-01T21:00:00+00:00"
+  },
+  {
+   "author": "zawadi-36",
+   "is_bot": false,
+   "created_at": "2026-08-31T07:00:00+00:00"
+  },
+  {
+   "author": "brian-37",
+   "is_bot": false,
+   "created_at": "2026-08-27T18:00:00+00:00"
+  },
+  {
+   "author": "david-38",
+   "is_bot": false,
+   "created_at": "2026-09-20T20:00:00+00:00"
+  },
+  {
+   "author": "isaac-39",
+   "is_bot": false,
+   "created_at": "2026-08-28T21:00:00+00:00"
+  },
+  {
+   "author": "john-40",
+   "is_bot": false,
+   "created_at": "2026-09-12T05:00:00+00:00"
+  },
+  {
+   "author": "kevin-41",
+   "is_bot": false,
+   "created_at": "2026-09-18T00:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-09-24T05:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-09-02T17:00:00+00:00"
+  },
+  {
+   "author": "dependabot[bot]",
+   "is_bot": true,
+   "created_at": "2026-09-17T16:00:00+00:00"
+  }
+ ],
+ "issues": [
+  {
+   "author": "karen-24",
+   "created_at": "2026-03-26T02:00:00+00:00",
+   "first_response_at": null,
+   "state": "closed",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "moses-42",
+   "created_at": "2026-07-18T08:00:00+00:00",
+   "first_response_at": "2026-07-26T16:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "ivy-22",
+   "created_at": "2026-04-10T09:00:00+00:00",
+   "first_response_at": "2026-04-12T06:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "amina-00",
+   "created_at": "2026-06-07T06:00:00+00:00",
+   "first_response_at": "2026-06-19T18:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "doreen-10",
+   "created_at": "2026-06-16T11:00:00+00:00",
+   "first_response_at": "2026-06-21T11:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "grace-01",
+   "created_at": "2026-04-14T10:00:00+00:00",
+   "first_response_at": "2026-04-15T06:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "joy-49",
+   "created_at": "2026-07-09T21:00:00+00:00",
+   "first_response_at": "2026-07-22T09:00:00+00:00",
+   "state": "open",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "winnie-34",
+   "created_at": "2026-06-03T02:00:00+00:00",
+   "first_response_at": "2026-06-04T08:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "gloria-20",
+   "created_at": "2026-07-31T19:00:00+00:00",
+   "first_response_at": "2026-08-01T03:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "christine-16",
+   "created_at": "2026-03-27T23:00:00+00:00",
+   "first_response_at": null,
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "mercy-07",
+   "created_at": "2026-08-12T03:00:00+00:00",
+   "first_response_at": "2026-08-15T21:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "ivy-22",
+   "created_at": "2026-05-30T21:00:00+00:00",
+   "first_response_at": "2026-06-08T05:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "christine-16",
+   "created_at": "2026-03-17T02:00:00+00:00",
+   "first_response_at": "2026-03-18T23:00:00+00:00",
+   "state": "open",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "harriet-21",
+   "created_at": "2026-04-12T10:00:00+00:00",
+   "first_response_at": "2026-04-17T10:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "gloria-20",
+   "created_at": "2026-09-01T21:00:00+00:00",
+   "first_response_at": "2026-09-04T19:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "esther-48",
+   "created_at": "2026-04-19T14:00:00+00:00",
+   "first_response_at": "2026-04-22T02:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "olive-28",
+   "created_at": "2026-06-12T18:00:00+00:00",
+   "first_response_at": "2026-06-13T14:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "gloria-20",
+   "created_at": "2026-06-18T08:00:00+00:00",
+   "first_response_at": "2026-06-18T16:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "john-40",
+   "created_at": "2026-06-21T08:00:00+00:00",
+   "first_response_at": null,
+   "state": "closed",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "joy-49",
+   "created_at": "2026-04-28T10:00:00+00:00",
+   "first_response_at": "2026-05-03T10:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "linda-25",
+   "created_at": "2026-05-07T09:00:00+00:00",
+   "first_response_at": "2026-05-19T21:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "maria-26",
+   "created_at": "2026-03-05T17:00:00+00:00",
+   "first_response_at": "2026-03-18T05:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "lydia-58",
+   "created_at": "2026-03-24T21:00:00+00:00",
+   "first_response_at": "2026-03-28T15:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "hope-59",
+   "created_at": "2026-06-16T11:00:00+00:00",
+   "first_response_at": "2026-06-16T14:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "yvonne-35",
+   "created_at": "2026-09-01T05:00:00+00:00",
+   "first_response_at": null,
+   "state": "closed",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "maria-26",
+   "created_at": "2026-04-02T10:00:00+00:00",
+   "first_response_at": "2026-04-10T18:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "esther-48",
+   "created_at": "2026-07-01T10:00:00+00:00",
+   "first_response_at": null,
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "gloria-20",
+   "created_at": "2026-08-09T03:00:00+00:00",
+   "first_response_at": "2026-08-11T00:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "diana-17",
+   "created_at": "2026-09-15T06:00:00+00:00",
+   "first_response_at": "2026-09-20T06:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "joy-49",
+   "created_at": "2026-03-20T17:00:00+00:00",
+   "first_response_at": "2026-03-25T17:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "naomi-60",
+   "created_at": "2026-03-24T04:00:00+00:00",
+   "first_response_at": "2026-03-25T10:00:00+00:00",
+   "state": "closed",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "faith-05",
+   "created_at": "2026-04-21T19:00:00+00:00",
+   "first_response_at": "2026-04-23T16:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "brenda-08",
+   "created_at": "2026-08-29T16:00:00+00:00",
+   "first_response_at": "2026-09-03T16:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "patience-11",
+   "created_at": "2026-03-07T08:00:00+00:00",
+   "first_response_at": "2026-03-07T11:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "ivy-22",
+   "created_at": "2026-06-28T21:00:00+00:00",
+   "first_response_at": "2026-07-01T09:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "mercy-53",
+   "created_at": "2026-08-02T15:00:00+00:00",
+   "first_response_at": "2026-08-05T03:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "rachel-30",
+   "created_at": "2026-03-09T20:00:00+00:00",
+   "first_response_at": "2026-03-09T23:00:00+00:00",
+   "state": "closed",
+   "labels": [
+    "good first issue"
+   ]
+  },
+  {
+   "author": "tracy-32",
+   "created_at": "2026-05-03T14:00:00+00:00",
+   "first_response_at": "2026-05-05T11:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  },
+  {
+   "author": "irene-55",
+   "created_at": "2026-05-16T06:00:00+00:00",
+   "first_response_at": "2026-05-19T04:00:00+00:00",
+   "state": "open",
+   "labels": []
+  },
+  {
+   "author": "peter-43",
+   "created_at": "2026-09-01T23:00:00+00:00",
+   "first_response_at": "2026-09-06T23:00:00+00:00",
+   "state": "closed",
+   "labels": []
+  }
+ ],
+ "open_good_first_issues": 3,
+ "contributors": [
+  {
+   "login": "maintainer-anne",
+   "contributions": 412
+  },
+  {
+   "login": "maintainer-ben",
+   "contributions": 198
+  },
+  {
+   "login": "amina-00",
+   "contributions": 16
+  },
+  {
+   "login": "grace-01",
+   "contributions": 20
+  },
+  {
+   "login": "esther-02",
+   "contributions": 3
+  },
+  {
+   "login": "joy-03",
+   "contributions": 17
+  },
+  {
+   "login": "ruth-04",
+   "contributions": 17
+  },
+  {
+   "login": "faith-05",
+   "contributions": 20
+  },
+  {
+   "login": "sarah-06",
+   "contributions": 11
+  },
+  {
+   "login": "mercy-07",
+   "contributions": 16
+  },
+  {
+   "login": "brenda-08",
+   "contributions": 11
+  },
+  {
+   "login": "irene-09",
+   "contributions": 22
+  },
+  {
+   "login": "doreen-10",
+   "contributions": 11
+  },
+  {
+   "login": "patience-11",
+   "contributions": 12
+  },
+  {
+   "login": "lydia-12",
+   "contributions": 6
+  },
+  {
+   "login": "hope-13",
+   "contributions": 3
+  },
+  {
+   "login": "naomi-14",
+   "contributions": 18
+  },
+  {
+   "login": "agnes-15",
+   "contributions": 6
+  },
+  {
+   "login": "christine-16",
+   "contributions": 25
+  },
+  {
+   "login": "diana-17",
+   "contributions": 9
+  },
+  {
+   "login": "edith-18",
+   "contributions": 17
+  },
+  {
+   "login": "florence-19",
+   "contributions": 17
+  },
+  {
+   "login": "gloria-20",
+   "contributions": 13
+  },
+  {
+   "login": "harriet-21",
+   "contributions": 21
+  },
+  {
+   "login": "ivy-22",
+   "contributions": 4
+  },
+  {
+   "login": "juliet-23",
+   "contributions": 20
+  },
+  {
+   "login": "karen-24",
+   "contributions": 7
+  },
+  {
+   "login": "linda-25",
+   "contributions": 1
+  },
+  {
+   "login": "maria-26",
+   "contributions": 15
+  },
+  {
+   "login": "nora-27",
+   "contributions": 8
+  },
+  {
+   "login": "olive-28",
+   "contributions": 7
+  },
+  {
+   "login": "priscilla-29",
+   "contributions": 14
+  },
+  {
+   "login": "rachel-30",
+   "contributions": 17
+  },
+  {
+   "login": "sylvia-31",
+   "contributions": 17
+  },
+  {
+   "login": "tracy-32",
+   "contributions": 5
+  },
+  {
+   "login": "vivian-33",
+   "contributions": 17
+  },
+  {
+   "login": "winnie-34",
+   "contributions": 7
+  },
+  {
+   "login": "yvonne-35",
+   "contributions": 9
+  },
+  {
+   "login": "zawadi-36",
+   "contributions": 25
+  },
+  {
+   "login": "brian-37",
+   "contributions": 23
+  },
+  {
+   "login": "david-38",
+   "contributions": 16
+  },
+  {
+   "login": "isaac-39",
+   "contributions": 5
+  },
+  {
+   "login": "john-40",
+   "contributions": 18
+  },
+  {
+   "login": "kevin-41",
+   "contributions": 22
+  }
+ ]
+}

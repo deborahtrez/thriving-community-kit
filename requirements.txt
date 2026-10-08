@@ -1,0 +1,5 @@
+requests>=2.31
+pandas>=2.0
+matplotlib>=3.8
+rich>=13.0
+cookiecutter>=2.5

@@ -1,0 +1,16 @@
+{
+ "action": "opened",
+ "repository": {
+  "full_name": "pyladies-kampala/study-jam"
+ },
+ "pull_request": {
+  "number": 88,
+  "merged": false,
+  "author_association": "MEMBER",
+  "user": {
+   "login": "maintainer-anne",
+   "type": "User"
+  },
+  "title": "Fix broken link in README"
+ }
+}
